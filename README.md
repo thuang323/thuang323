@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/thuang323/github-readme-stats">
-  <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=thuang323&hide=stars&show_icons=true&rank_icon=github&theme=dark" />
-</a>
-<a href="https://github.com/thuang323/convoychat">
-  <img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thuang323&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+<div align="center">
+    <p>
+        <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thuang323&show_icons=true&rank_icon=github&count_private=true&theme=dark&include_all_files=true" />&nbsp;&nbsp;
+        <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuang323&layout=compact&theme=dark" />&nbsp;&nbsp;
+    </p>
+</div>
